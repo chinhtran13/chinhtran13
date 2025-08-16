@@ -1,3 +1,18 @@
+<h1 align="center">👋 Xin chào, tôi là <span style="color:#0e75b6;">Trần Viễn Chinh</span></h1>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=chinyy&label=Lượt%20xem%20profile&color=0e75b6&style=flat" alt="chinyy" />
+</p>
+
+---
+
+### 🌐 Kết nối với tôi:
+<p align="left">
+  <a href="https://www.facebook.com/chiny.1388" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
+
 ---
 
 ### 🛠️ Ngôn ngữ & Công cụ:
@@ -86,4 +101,19 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
+</p>
+
+---
+
+### 📊 Thống kê GitHub:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinyy&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinyy&show_icons=true&locale=en" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinyy&" alt="streak" />
 </p>
